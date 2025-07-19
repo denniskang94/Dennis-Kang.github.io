@@ -1,18 +1,8 @@
 ---
 layout: default
-title: "Dennis Kang – Data Analytics Engineer"
+title: "Dennis Kang – Resume"
 ---
 
-# Dennis “Jee Hun” Kang
-**Data Analytics Engineer** at Dashing Diva Franchise Corp
-Los Angeles, CA | [Email](jeehun.d.kang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jeehunkang/)
-
----
-
-## 📄 Resume  
-[Download my resume (PDF)](resume.pdf)
-
-## 💼 Projects  
-- **Project A** – Short description. [Live demo »](https://…) | [Code »](https://github.com/…)  
-- **Project B** – Short description. [Live demo »](https://…) | [Code »](https://github.com/…)
-
+<object data="resume.pdf" type="application/pdf" width="100%" height="1000px">
+  <p>Your browser doesn’t support inline PDFs. <a href="resume.pdf">Download the PDF</a>.</p>
+</object>
